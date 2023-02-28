@@ -4,7 +4,9 @@ body.dark .container {
 }
 body.dark .container .left_Side {
     transition: .5s ease all;
-    background: #121212;   
+    background: rgb(241,70,252);
+    background: linear-gradient(90deg, rgba(241,70,252,1) 0%, rgba(3,2,8,1) 51%, rgba(174,70,252,1) 100%);
+      
 }
 body.dark .contactInfo ul li .icon {
     transition: .5s ease all;
